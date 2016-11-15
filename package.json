@@ -1,0 +1,27 @@
+{
+  "name": "webpack-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kamil Macinski",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "*",
+    "babel-core": "*",
+    "babel-loader": "*",
+    "babel-preset-es2015": "*",
+    "css-loader": "*",
+    "postcss-loader": "*",
+    "style-loader": "*",
+    "webpack": "*",
+    "webpack-dev-server": "*",
+    "eslint": "*"
+  },
+  "dependencies": {
+    "normalize.css": "*"
+  }
+}

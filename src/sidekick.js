@@ -1,0 +1,1 @@
+export const sayMyName = () => console.log('Limak ?')
